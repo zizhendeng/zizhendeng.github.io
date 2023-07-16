@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Welcome to my homepage!
+
 I am currently a master student in the Multi-Modal Artificial Intelligence System Laboratory of the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). Before that, I got my bachelor from the Department of Computer in [North China Electric Power University](https://www.ncepu.edu.cn/). 
 
 My research interest focuses on Deep Causal Learning, Causal Inference, Causal Discovery, Social Computing(e.g., Information Cascade, Social Resilience) and LLM Alginment.

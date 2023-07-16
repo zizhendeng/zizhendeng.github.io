@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zizhen Deng"
+  name             : "Zizhen Deng (邓紫臻)"
   avatar           : "生活照1.png"
   bio              : "A researcher at the intersection of causal machine learning and social computing"
   location         : "Beijing, China"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+
   googlescholar    : "https://scholar.google.com/citations?user=ZD78eukAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  # orcid            : "http://orcid.org/yourorcidurl"
+
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "replacethistwitterhandle"
+
   vine             :
   weibo            :
   xing             :

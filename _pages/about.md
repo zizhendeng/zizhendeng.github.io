@@ -22,9 +22,13 @@ The focus of this homepage is "Research", which gives a detailed introduction of
 Publications
 ------
 [Deep causal learning: representation, discovery and inference](https://arxiv.org/abs/2211.03374)
+
 **Z Deng**, X Zheng, H Tian, DD Zeng
+
 arXiv preprint arXiv:2211.03374
 
  [Credible Influence Analysis in Mass Media Using Causal Inference](https://ieeexplore.ieee.org/abstract/document/9624679)
+ 
  **Z Deng**, Zheng X, Ye Z, et al.
+ 
  2021 IEEE International Conference on Intelligence and Security Informatics (ISI). IEEE, 2021: 1-5.

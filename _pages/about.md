@@ -18,13 +18,3 @@ You can find my CV here : [Zizhen'CV](../assets/CV_中文.pdf)
 
 The focus of this homepage is "Research", which gives a detailed introduction of the research I have done and am doing.
 
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-
-
-Site-wide configuration
-------
-The main configuration 
-

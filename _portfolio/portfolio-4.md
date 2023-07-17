@@ -13,5 +13,11 @@ Contains classic and latest deep causal discovery and deep causal inference meth
 
 We reveal mechanistically the improvements that deep learning brings to causal inference.<br/><img src='/images/Re_DCL_2.png'>
 
+More details can be found in the following paper:
 
+[Deep causal learning: representation, discovery and inference](https://arxiv.org/abs/2211.03374)
+
+**Z Deng**, X Zheng, H Tian, DD Zeng
+
+arXiv preprint arXiv:2211.03374
 

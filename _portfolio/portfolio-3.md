@@ -13,11 +13,15 @@ We mainly conduct experiments on the Bilibili and vine datasets. Each video is a
 
 **Explore causal graphs using several causal discovery algorithms:**
 
-<PC src='/images/Re_IC_1.png'>
-<No-tears src='/images/Re_IC_2.png'>
-<GES src='/images/Re_IC_3.png'>
-<LiNGAM src='/images/Re_IC_4.png'>
-<Gran-DAG src='/images/Re_IC_5.png'>
+PC: <img src='/images/Re_IC_1.png'>
+
+No-tears: <img src='/images/Re_IC_2.png'>
+
+GES: <img src='/images/Re_IC_3.png'>
+
+LiNGAM: <img src='/images/Re_IC_4.png'>
+
+Gran-DAG: <img src='/images/Re_IC_5.png'>
 
 **Calculate causal effects using multiple causal inference methods:**
 

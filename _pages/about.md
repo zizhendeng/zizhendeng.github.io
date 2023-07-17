@@ -11,9 +11,9 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am currently a master student in the Multi-Modal Artificial Intelligence System Laboratory of the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). Before that, I got my bachelor from the Department of Computer in [North China Electric Power University](https://www.ncepu.edu.cn/). 
+I am currently a master student in the Multi-Modal Artificial Intelligence System Laboratory of the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). Before that, I received my bachelor's degree from the department of computer science of [North China Electric Power University](https://www.ncepu.edu.cn/) in 2021. 
 
-My research interest focuses on Deep Causal Learning, Causal Inference, Causal Discovery, Social Computing(e.g., Information Cascade, Social Resilience) and LLM Alignment.
+My research interest focuses on Deep causal learning, Causal inference, LLM Alignment and Social computing(e.g., information cascade, social resilience).
 
 You can find my CV here : [Zizhen'CV](../assets/CV_中文.pdf)
 

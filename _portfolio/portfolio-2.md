@@ -15,29 +15,29 @@ Compared with other methods that directly weight and calculate various indicator
 Core Process
 ------
 
-1. Build a social cognitive network:
+1.Build a social cognitive network:
 
 Use LIWC to extract information of each semantic dimension from Reddit posts or comments as the value of each cognitive dimension. Using the day as the unit, use the causal discovery method to obtain the causal relationship between various dimensions, and generate a cognitive causal map. Since different causal discovery methods have different scopes of application, different methods may obtain different results. This study tested a variety of causal discovery methods and selected a more stable method to apply to the global data. An example social cognitive network is shown below:
 
 <img src='/images/Re_SR_1.png'>
 
-2. Calculate the network resilience and effective state of the social cognitive network, and explore what kind of dynamic paradigm the social cognitive system belongs to:
+2.Calculate the network resilience and effective state of the social cognitive network, and explore what kind of dynamic paradigm the social cognitive system belongs to:
    
 This part uses the GBB algorithm to simplify the multi-dimensional structure of network elasticity into a one-dimensional structure, so that it can be analyzed and described. Taking the Reddit_covid dataset as an example, we can see that the effective state of the social cognitive network bifurcates with the increase of the resilience coefficient. That is to say, there are two states in the social cognitive system, one maintains high activity and the other maintains low active.
 
 <img src='/images/Re_SR_2.png'>
 
-3. Changes in social resilience over time：
+3.Changes in social resilience over time：
 
 <img src='/images/Re_SR_3.png'>
 
-4. The manifestation of various cognitive dimensions when social resilience is low:
+4.The manifestation of various cognitive dimensions when social resilience is low:
    
   By observing the changes of various cognitive dimensions and social resilience over time, it is found that when social resilience is low, people's analytical thinking declines.
 
 <img src='/images/Re_SR_4.png'>
 
-5. The impact of different disturbances on social resilience:
+5.The impact of different disturbances on social resilience:
 
   There are three disturbances to the social cognitive network, which are to delete nodes (eliminate a certain cognitive dimension), delete edges (eliminate the association between two cognitive dimensions), Perturb the weights of all edges (the social environment has changed dramatically). By implementing the above three perturbations on the social cognitive network and observing the changes in the effective state, we found that deleting a certain cognitive dimension has the greatest impact on social resilience and is most likely to lead to social collapse.
 

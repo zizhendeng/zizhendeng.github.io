@@ -1,6 +1,6 @@
 ---
 title: "3.Modeling Information Cascading Behavior Based on Causal Inference"
-excerpt: "This study uses causal inference to calculate the degree of influence of internal motivation and external environment on individual decision-making, understand the reasons behind individual behavior, and provide a basis for policy formulation."
+excerpt: "This study uses causal inference to calculate the degree of influence of internal motivation and external environment on individual decision-making, understand the reasons behind individual behavior, and provide a basis for policy formulation.<br/><img src='/images/Re_IC_6.png'>"
 collection: portfolio
 ---
 

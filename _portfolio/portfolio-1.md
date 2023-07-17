@@ -1,5 +1,5 @@
 ---
-title: "Causal Alignment for Large Language Models"
+title: "1.Causal Alignment for Large Language Models"
 excerpt: "We propose a novel approach based on causal abstraction theory and mixture of experts to find the neural representation corresponding to a given causal variable in the causal structure model."
 collection: portfolio
 ---

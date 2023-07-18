@@ -15,7 +15,8 @@ I am currently a master student in the Multi-Modal Artificial Intelligence Syste
 
 My research interest focuses on Deep causal learning, Causal inference, LLM Alignment and Social computing(e.g., information cascade, social resilience).
 
-You can find my CV here : [CV](../assets/CV_En.pdf) [简历](../assets/CV_中文.pdf)
+You can find my CV here : [CV](../assets/CV_En.pdf)
+中文版：[简历](../assets/CV_中文.pdf)
 
 The focus of this homepage is "Research", which gives a detailed introduction of the research I have done and am doing.
 

@@ -19,7 +19,7 @@ You can find my CV here : [CV](../assets/CV_En.pdf)
 
 简历中文版：[简历](../assets/CV_中文.pdf)
 
-The focus of this homepage is "Research", which gives a detailed introduction of the research I have done and am doing.
+The focus of this homepage is **"Research",** which gives a detailed introduction of the research I have done and am doing.
 
 Publications
 ------

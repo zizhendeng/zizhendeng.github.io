@@ -1,6 +1,6 @@
 ---
 title: "4.Deep Causal Learning: Representation, Discovery and Inference (2021.11--2022.09)"
-excerpt: "We introduces the latest advancements in three fundamental areas of deep causal learning: causal representation learning, deep causal discovery, and deep causal inference. <br/><img src='/images/Re_DCL_3.png'>"
+excerpt: "We introduce the latest advancements in three fundamental areas of deep causal learning: causal representation learning, deep causal discovery, and deep causal inference. <br/><img src='/images/Re_DCL_3.png'>"
 collection: portfolio
 ---
 

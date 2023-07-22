@@ -1,6 +1,6 @@
 ---
 title: "3.Modeling Information Cascading Behavior Based on Causal Inference (2022.09--2023.02)"
-excerpt: "This study employs causal inference to quantify the extent of influence that internal motivation and external environment have on individual decision-making. By delving into the reasons behind individual behavior, it aims to furnish a solid foundation for the formulation of effective policies.<br/><img src='/images/Re_IC_6.png'>"
+excerpt: "We employ causal inference to quantify the extent of influence that internal motivation and external environment have on individual decision-making. By delving into the reasons behind individual behavior, it aims to furnish a solid foundation for the formulation of effective policies.<br/><img src='/images/Re_IC_6.png'>"
 collection: portfolio
 ---
 

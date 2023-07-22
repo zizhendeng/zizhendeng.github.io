@@ -1,18 +1,14 @@
 ---
-title: "4.Deep Causal Learning: Representation, Discovery and Inference"
-excerpt: "The research pointed out the existing problems and limitations in the field of causal learning, leading to the inevitability of combining with deep learning. Then introduce the latest methods in the three core directions of causal variable-oriented representation learning, deep causal discovery, and deep causal inference. <br/><img src='/images/Re_DCL_3.png'>"
+title: "4.Deep Causal Learning: Representation, Discovery and Inference (2021.11--2022.09)"
+excerpt: "We introduces the latest advancements in three fundamental areas of deep causal learning: causal representation learning, deep causal discovery, and deep causal inference. <br/><img src='/images/Re_DCL_3.png'>"
 collection: portfolio
 ---
 
+The research highlights the current challenges and constraints within the realm of causal learning, underscoring the necessity of integration with deep learning techniques. Subsequently, it introduces the latest advancements in three fundamental areas: **causal representation learning**, **deep causal discovery**, and **deep causal inference**. By exploring these cutting-edge methods, the study aims to push the boundaries of understanding and harness the power of causal learning in conjunction with deep learning to tackle complex problems effectively.
 
-The research pointed out the existing problems and limitations in the field of causal learning, leading to the inevitability of combining with deep learning. Then introduce the latest methods in the three core directions of causal variable-oriented representation learning, deep causal discovery, and deep causal inference.
+To the best of our knowledge, this work is the **first comprehensive survey** of the combination of causal representation, causal discovery, causal inference and deep learning. It contains classic and latest deep causal discovery and deep causal inference methods, such as NOTEARS, DAG-GNN, Grad-DAG; CFR, DragonNet, CEVAE, GANITE, DeepIV, etc.
 
-To the best of our knowledge, this work is the first comprehensive survey of the combination of causal representation, causal discovery, causal inference and deep learning.
-
-Contains classic and latest deep causal discovery and deep causal inference methods, such as NOTEARS, DAG-GNN, Grad-DAG; CFR, DragonNet, CEVAE, GANITE, DeepIV, etc.
-
-We reveal mechanistically the improvements that deep learning brings to causal inference.<br/><img src='/images/Re_DCL_2.png'>
-
+We mechanistically unveil the enhancements that deep learning brings to causal inference.<br/><img src='/images/Re_DCL_2.png'>
 
 **More details can be found in the following paper:**
 

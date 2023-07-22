@@ -46,7 +46,7 @@ The [RFDID](https://www.sciencedirect.com/science/article/abs/pii/S0306457322000
 
 In many information cascading scenarios, due to privacy policy reasons or technical issues, it is impossible to obtain the user's social relationship or historical speech. Intuitively, if a user has a high degree of awareness of the cascade information but does not participate in the cascade, it can be considered that the external environment has inhibited it. However, if a user has low awareness of the information but participates in the cascade, the environment can be considered to have contributed to it. Conversely, if a user's environment is very positive, but he is not participating in the cascade, it can indicate a low level of intrinsic awareness.
 
-Therefore, when the external environment information is missing, we start from the causal perspective, with the help of the **collider** structure of the **Structural Causal Model**, through the user's internal motivation and cascading participation behavior, to complement the external environment representation. 
+Therefore, when the **external environment** information is missing, we start from the causal perspective, with the help of the **collider** structure of the **Structural Causal Model**, through the user's **internal motivation** and **cascading behavior**, to complement the external environment representation. 
 
 The core schematic diagram is as follows:
 

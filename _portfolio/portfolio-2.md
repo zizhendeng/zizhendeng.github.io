@@ -4,26 +4,28 @@ excerpt: "Characterizing social resilience using the resilience of social cognit
 collection: portfolio
 ---
 
-Social resilience refers to the remarkable ability of a social system to adapt, recover, and progress in the face of adversity, shocks, crises, or transformative changes. It embodies the capacity of a community or society to sustain stability, minimize losses, and swiftly restore normalcy when confronted with diverse challenges such as natural disasters, economic downturns, political upheavals, and technological advancements.
+**Social resilience** refers to the remarkable ability of a social system to adapt, recover, and progress in the face of adversity, shocks, crises, or transformative changes. It embodies the capacity of a community or society to sustain stability, minimize losses, and swiftly restore normalcy when confronted with diverse challenges such as natural disasters, economic downturns, political upheavals, and technological advancements.
 
-In social sciences, social resilience is a classic research problem. There are many factors that affect social resilience, and there are many calculation indicators. However, most of the existing methods are only weighted calculations of multiple statistical indicators, and there is no recognized efficient social resilience's calculation method.
+In the field of social sciences, social resilience stands as a classic research conundrum. Numerous factors influence social resilience, and various calculation indicators come into play. Nevertheless, most existing methods merely involve weighted calculations of multiple statistical indicators, lacking a widely accepted and efficient approach for calculating social resilience.
 
-We try to analyze from the essence that people are the most basic elements of society, and the most important manifestation of social resilience should be through people's feedback. This study introduces a cognitive network at the social level, which we call a social cognitive network. We use the causal discovery method to obtain the causal relationship between the various dimensions of social cognition to construct social cognition network. As a dynamic network, it collects data on various psychological, cognitive, and behavioral dimensions of society over a period of time. We use the network resilience of social cognitive networks to calculate the evolving trends and properties of social resilience.
+We try to analyze from the essence that people are the most basic elements of society, and the most important manifestation of social resilience should be through people's feedback. In this study, we introduce a **social cognitive network**, a cognitive network operating at the societal level. Employing the **causal discovery** method, we uncover the causal relationships among diverse dimensions of social cognition to construct the social cognitive network. This dynamic network gathers data on psychological, cognitive, and behavioral aspects of society over a defined period. By gauging the network resilience of social cognitive networks, we calculate the evolving trends and characteristics of social resilience.
 
-Compared with other methods that directly weight and calculate various indicators, the social cognitive network, as a proxy research object of the social resilience system, can more thoroughly understand the changing laws and characteristics of social resilience from the perspective of dynamic evolution. The datasets used in this study are 4 Reddit topic datasets. Respectively recorded posts and comments on Reddit with tags bitcoin, GME, ethereum, covid. The data scales range from hundreds of thousands to tens of millions.
+In contrast to other approaches that merely assign weights and calculate various indicators, the social cognitive network serves as a more comprehensive research tool for exploring the dynamics and inherent traits of social resilience. As a proxy for the social resilience system, it enables us to gain a profound understanding of how social resilience evolves over time.
+
+For this study, we utilized four [Reddit topic datasets](https://socialgrep.com/datasets), comprising posts and comments labeled under the topics of **bitcoin**, **GME**, **ethereum**, and **covid**. These datasets exhibit diverse scales, ranging from hundreds of thousands to tens of millions of data points.
 
 Core Process
 ------
 
-1.Build a social cognitive network:
+1.Build the social cognitive network:
 
-Use LIWC to extract information of each semantic dimension from Reddit posts or comments as the value of each cognitive dimension. Using the day as the unit, use the causal discovery method to obtain the causal relationship between various dimensions, and generate a cognitive causal map. Since different causal discovery methods have different scopes of application, different methods may obtain different results. This study tested a variety of causal discovery methods and selected a more stable method to apply to the global data. An example social cognitive network is shown below:
+Utilizing [LIWC](https://www.liwc.app/), we extracted valuable insights from Reddit posts and comments, representing the essence of each semantic dimension as the value for respective cognitive dimensions. Employing a daily time frame, we employed the causal discovery method to reveal the causal relationships between these various dimensions, creating a comprehensive cognitive causal map. Given that different causal discovery methods have varying scopes of application, we subjected multiple methods to rigorous testing, ultimately selecting the most stable approach for analyzing the global data. Below, we present an illustrative example of a social cognitive network:
 
 <img src='/images/Re_SR_1.png'>
 
 2.Calculate the network resilience and effective state of the social cognitive network, and explore what kind of dynamic paradigm the social cognitive system belongs to:
    
-This part uses the GBB algorithm to simplify the multi-dimensional structure of network elasticity into a one-dimensional structure, so that it can be analyzed and described. Taking the Reddit_covid dataset as an example, we can see that the effective state of the social cognitive network bifurcates with the increase of the resilience coefficient. That is to say, there are two states in the social cognitive system, one maintains high activity and the other maintains low active.
+In this section, we employ the [GBB](https://www.nature.com/articles/nature16948) algorithm to condense the multi-dimensional structure of network resilience into a more manageable one-dimensional representation, facilitating analysis and description. Taking the Reddit_covid dataset as an example, intriguing patterns emerge as we observe the social cognitive network's effective state **diverging** with the increase of the resilience coefficient. Consequently, the social cognitive system exhibits **two distinctive states**: one characterized by sustained **high** activity and the other maintaining a relatively **lower** level of activity. This remarkable **bifurcation** sheds light on the intricate dynamics of the social cognitive system under varying resilience conditions.
 
 <img src='/images/Re_SR_2.png'>
 
@@ -33,12 +35,12 @@ This part uses the GBB algorithm to simplify the multi-dimensional structure of 
 
 4.The manifestation of various cognitive dimensions when social resilience is low:
    
-  By observing the changes of various cognitive dimensions and social resilience over time, it is found that when social resilience is low, people's analytical thinking declines.
+Observing the fluctuations in diverse cognitive dimensions and social resilience over time, it becomes apparent that a **decline** in people's **analytical thinking** occurs when social resilience is low.
 
 <img src='/images/Re_SR_4.png'>
 
 5.The impact of different disturbances on social resilience:
 
-  There are three disturbances to the social cognitive network, which are to delete nodes (eliminate a certain cognitive dimension), delete edges (eliminate the association between two cognitive dimensions), Perturb the weights of all edges (the social environment has changed dramatically). By implementing the above three perturbations on the social cognitive network and observing the changes in the effective state, we found that deleting a certain cognitive dimension has the greatest impact on social resilience and is most likely to lead to social collapse.
+There are three disturbances to the social cognitive network, which are to delete nodes (eliminate a certain cognitive dimension), delete edges (eliminate the association between two cognitive dimensions), perturb the weights of all edges (the social environment has changed dramatically). By implementing the above three perturbations on the social cognitive network and observing the changes in the effective state, we found that deleting a certain cognitive dimension has the greatest impact on social resilience and is most likely to lead to social collapse.
 
 <img src='/images/Re_SR_5.png'>

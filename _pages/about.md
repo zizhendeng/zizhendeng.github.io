@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am currently a master student in the **National Key Laboratory of Multimodal Artificial Intelligence Systems** of the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). Before that, I received my bachelor's degree from the Department of Computer Science of [North China Electric Power University](https://www.ncepu.edu.cn/) in 2021. During my undergraduate period, I ranked first in my major **(1/119)**, won the **National Scholarship**, and graduated as the **Outstanding Graduate**.
+I am currently a master student in the **National Key Laboratory of Multimodal Artificial Intelligence Systems** of the [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/). Before that, I received my bachelor's degree from the Department of Computer of [North China Electric Power University](https://www.ncepu.edu.cn/) in 2021. During my undergraduate period, I ranked first in my major **(1/119)**, won the **National Scholarship**, and graduated as the **Outstanding Graduate**.
 
 My research interest focuses on Deep causal learning, Causal inference, LLM Alignment and Social computing(e.g., information cascade, social resilience).
 
